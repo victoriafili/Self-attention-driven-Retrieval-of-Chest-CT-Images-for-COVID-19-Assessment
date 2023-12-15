@@ -37,3 +37,4 @@ Run the files in the above order:
 3. cbir.ipynb
 4. evaluation_metrics.ipynb
 5. creation_of_figure3.ipynb
+* Before running the last one install the helper library from the command prompt 'pip install import-ipynb'.
