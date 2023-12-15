@@ -36,6 +36,6 @@ This project is conducted for research purposes and is closely tied to our paper
   2. grad_cam.ipynb
   3. cbir.ipynb
   4. evaluation_metrics.ipynb
-  5. creation_of_figure3.ipynb (Note: Before running the last one install the helper library from the command prompt 'pip install import-ipynb'.)
+  5. creation_of_figure3.ipynb (Before running the last one install the helper library from the command prompt 'pip install import-ipynb'.)
 
 -Results have been hidden due to space constraints.
