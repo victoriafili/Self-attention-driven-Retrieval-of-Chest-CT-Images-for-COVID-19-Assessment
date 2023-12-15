@@ -32,11 +32,11 @@ This project is conducted for research purposes and is closely tied to our paper
 
 ## Important Notes
 1) Run the files in the above order:
-  &nbsp 1. classification.ipynb
-  2. grad_cam.ipynb
-  3. cbir.ipynb
-  4. evaluation_metrics.ipynb
-  5. creation_of_figure3.ipynb
-  *Before running the last one install the helper library from the command prompt 'pip install import-ipynb'.
+    1. classification.ipynb
+    2. grad_cam.ipynb
+    3. cbir.ipynb
+    4. evaluation_metrics.ipynb
+    5. creation_of_figure3.ipynb
+    Note: Before running the last one install the helper library from the command prompt 'pip install import-ipynb'.
 
 2) Results have been hidden due to space constraints.
